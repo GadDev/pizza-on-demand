@@ -1,0 +1,24 @@
+{
+  "name": "pizza-on-demand",
+  "version": "1.0.0",
+  "description": "api pizza",
+  "author": "alex gadaix",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GadDev/pizza-on-demand.git"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "core-js": "^3.9.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "supertest": "^6.1.3"
+  }
+}

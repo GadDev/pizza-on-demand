@@ -1,0 +1,42 @@
+{
+	"pizzas": [
+		{
+			"name": "American",
+			"imagePath": "/images/american.png"
+		},
+		{
+			"name": "Fiorentina",
+			"imagePath": "/images/fiorentina.png"
+		},
+		{
+			"name": "La reine",
+			"imagePath": "/images/la_reine.png"
+		},
+		{
+			"name": "Margarita",
+			"imagePath": "/images/margarita.png"
+		}
+	],
+	"toppings": [
+		{
+			"name": "Artichoke",
+			"imagePath": "/images/artichoke.png"
+		},
+		{
+			"name": "Barbacoa beef",
+			"imagePath": "/images/barbacoa_beef.png"
+		},
+		{
+			"name": "Mushrooms",
+			"imagePath": "/images/mushrooms.png"
+		},
+		{
+			"name": "Basilic",
+			"imagePath": "/images/basilic.png"
+		},
+		{
+			"name": "Olive",
+			"imagePath": "/images/olive.png"
+		}
+	]
+}

@@ -47,5 +47,7 @@ app.post('/order', (req, res, next) => {
 });
 
 if (require.main === module) {
-	app.listen(PORT, () => console.log(`Server listening on port ${PORT}`));
+	app.listen(3030, () => console.log(`Server listening on port ${PORT}`));
 }
+
+module.exports = app;
